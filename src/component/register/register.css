@@ -1,0 +1,54 @@
+.register{
+    width: 32%;
+    margin: 0 auto;
+    padding:20px 0;
+}
+
+.register h2{
+    color:lime;
+    /* color:#009578; */
+    font-weight: 600;
+}
+.details1{
+    border:1px solid black;
+    background-color: black;
+}
+
+.form1{
+    padding: 28px;
+}
+
+.input1{
+    padding:10px;
+}
+
+.input1 input{
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    font-size: 15px;
+    border: black;
+}
+
+.signupbtn button{
+    font-size: 20px;
+    height: 50px;
+    width: 90%;
+    font-weight: 500;
+    background-color: lime;
+    color: black;
+    outline: none;
+    border: lime;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+.direct h3{
+    color:white;
+    font-weight: 400;
+}
+
+span{
+    color:lime;
+    cursor:pointer;
+}

@@ -1,0 +1,61 @@
+.signin{
+    width: 32%;
+    margin: 0 auto;
+}
+
+.signin h2{
+    color:lime;
+    /* color:#009578; */
+    font-weight: 600;
+}
+.details{
+    border:1px solid black;
+    background-color: black;
+}
+
+.form{
+    padding: 28px;
+}
+
+.input{
+    padding:10px;
+}
+
+.input input{
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    font-size: 15px;
+    border: black;
+}
+
+.down{
+    display: flex;
+    justify-content: space-between;
+}
+
+.down h3{
+    padding: 0 20px;
+    color:white;
+    font-weight: 500;
+    cursor:pointer;
+}
+
+h3.show{
+    color: lime;
+    font-weight: 500;
+}
+
+
+.loginbtn button{
+    font-size: 20px;
+    height: 50px;
+    width: 90%;
+    font-weight: 500;
+    background-color: lime;
+    color: black;
+    outline: none;
+    border: lime;
+    border-radius: 5px;
+    cursor:pointer;
+}
